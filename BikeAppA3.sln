@@ -1,0 +1,48 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VRApplicationWF", "VRApplicationWF\VRApplicationWF.csproj", "{4125DC65-3A0B-4F96-BED8-3564896B7F1B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "server", "clientserver\server.csproj", "{EA43616F-D92A-41CD-A009-BA12A7D55EF0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DataLibary", "DataLibary\DataLibary.csproj", "{299551CD-4138-4E00-84B0-9E737E76F730}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GUI", "serverNotTheRealOne\GUI.csproj", "{E2414CE4-5C2D-4F5C-B7BD-CAF43FD43DA0}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "ConstDataSettings", "SharedProject1\ConstDataSettings.shproj", "{D35831FD-4BA1-4741-B8B4-70DFB8E1F93E}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		SharedProject1\SharedProject1.projitems*{ea43616f-d92a-41cd-a009-ba12a7d55ef0}*SharedItemsImports = 4
+		SharedProject1\SharedProject1.projitems*{d35831fd-4ba1-4741-b8b4-70dfb8e1f93e}*SharedItemsImports = 13
+		SharedProject1\SharedProject1.projitems*{4125dc65-3a0b-4f96-bed8-3564896b7f1b}*SharedItemsImports = 4
+		SharedProject1\SharedProject1.projitems*{e2414ce4-5c2d-4f5c-b7bd-caf43fd43da0}*SharedItemsImports = 4
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4125DC65-3A0B-4F96-BED8-3564896B7F1B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4125DC65-3A0B-4F96-BED8-3564896B7F1B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4125DC65-3A0B-4F96-BED8-3564896B7F1B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4125DC65-3A0B-4F96-BED8-3564896B7F1B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{EA43616F-D92A-41CD-A009-BA12A7D55EF0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EA43616F-D92A-41CD-A009-BA12A7D55EF0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EA43616F-D92A-41CD-A009-BA12A7D55EF0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EA43616F-D92A-41CD-A009-BA12A7D55EF0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{299551CD-4138-4E00-84B0-9E737E76F730}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{299551CD-4138-4E00-84B0-9E737E76F730}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{299551CD-4138-4E00-84B0-9E737E76F730}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{299551CD-4138-4E00-84B0-9E737E76F730}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E2414CE4-5C2D-4F5C-B7BD-CAF43FD43DA0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E2414CE4-5C2D-4F5C-B7BD-CAF43FD43DA0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E2414CE4-5C2D-4F5C-B7BD-CAF43FD43DA0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E2414CE4-5C2D-4F5C-B7BD-CAF43FD43DA0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

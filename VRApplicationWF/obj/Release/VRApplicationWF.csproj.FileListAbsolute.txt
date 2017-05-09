@@ -1,0 +1,14 @@
+C:\Users\nickv\Desktop\project\VRApplicationWF\bin\Release\VRApplicationWF.exe.config
+C:\Users\nickv\Desktop\project\VRApplicationWF\bin\Release\VRApplicationWF.exe
+C:\Users\nickv\Desktop\project\VRApplicationWF\bin\Release\VRApplicationWF.pdb
+C:\Users\nickv\Desktop\project\VRApplicationWF\bin\Release\Newtonsoft.Json.dll
+C:\Users\nickv\Desktop\project\VRApplicationWF\bin\Release\Newtonsoft.Json.xml
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.VirtualReality.Forms.VRSelect.resources
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.VirtualReality.Forms.Loading.resources
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.VirtualReality.Forms.LoadingMap.resources
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.Password.resources
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.Properties.Resources.resources
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.csproj.GenerateResource.Cache
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.exe
+C:\Users\nickv\Desktop\project\VRApplicationWF\obj\Release\VRApplicationWF.pdb

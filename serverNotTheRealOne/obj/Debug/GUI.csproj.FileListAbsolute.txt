@@ -1,0 +1,135 @@
+D:\downloads\VRBikeApplication\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+D:\downloads\VRBikeApplication\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+D:\downloads\VRBikeApplication\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+D:\downloads\VRBikeApplication\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+D:\downloads\VRBikeApplication\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+D:\downloads\VRBikeApplication\serverNotTheRealOne\obj\Debug\VRApplicationWF.ClientApplication.Client.resources
+D:\downloads\VRBikeApplication\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+D:\downloads\VRBikeApplication\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\downloads\VRBikeApplication\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\obj\Debug\VRApplicationWF.ClientApplication.Client.resources
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\VRApplicationWF.ClientApplication.Client.resources
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+C:\Users\RMSjoshua\Desktop\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\nickv\Downloads\project-20160928T075508Z\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+C:\Users\nickv\Downloads\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Downloads\project-20160928T075508Z\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\bin\Debug\DataLibary.dll
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\obj\Debug\VRApplicationWF.ClientApplication.Client.resources
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+C:\Users\RMSjoshua\Desktop\recents project\project\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\school\jaar 2\periode 1\proftaak\c#\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+D:\school\jaar 2\periode 1\proftaak\c#\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+D:\school\jaar 2\periode 1\proftaak\c#\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\bin\Debug\DataLibary.dll
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\VRApplicationWF.ClientApplication.Client.resources
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+D:\school\jaar 2\periode 1\proftaak\c#\zzztroep\Code 5 oktober-20161010T083209Z\Code 5 oktober\project\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\project\serverNotTheRealOne\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\obj\Debug\VRApplicationWF.ClientApplication.Client.resources
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+C:\Users\nickv\Desktop\project - Copy\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\bin\Debug\DataLibary.dll
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\bin\Debug\DataLibary.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\obj\Debug\VRApplicationWF.ClientApplication.Client.resources
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.PopupBoxes.AddBikeID.resources
+C:\Users\nickv\Desktop\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.ClientApplication.Client.resources
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\bin\Debug\DataLibary.dll
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\bin\Debug\DataLibary.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.ClientApplication.Client.resources
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.PopupBoxes.AddBikeID.resources
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+D:\school\jaar 2\periode 1\proftaak\c#\almostFinal\projectie\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe.config
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.pdb
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.exe
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\bin\Debug\serverNotTheRealOne.pdb
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.dll
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\bin\Debug\Microsoft.VisualBasic.PowerPacks.xml
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\obj\Debug\GUI.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.ClientApplication.Client.resources
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\obj\Debug\GUI.ClientApplication.Password.resources
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.PopupBoxes.AddBikeID.resources
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\obj\Debug\serverNotTheRealOne.Properties.Resources.resources
+C:\Users\nickv\Desktop\almostFinal\projectie\serverNotTheRealOne\obj\Debug\GUI.csproj.GenerateResource.Cache

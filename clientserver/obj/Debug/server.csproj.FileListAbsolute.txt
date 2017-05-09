@@ -1,0 +1,34 @@
+D:\nick map\school\jaar 2\periode 1\C#\week3(clientserver)\clientserver\clientserver\bin\Debug\clientserver.exe.config
+D:\nick map\school\jaar 2\periode 1\C#\week3(clientserver)\clientserver\clientserver\bin\Debug\clientserver.exe
+D:\nick map\school\jaar 2\periode 1\C#\week3(clientserver)\clientserver\clientserver\bin\Debug\clientserver.pdb
+D:\nick map\school\jaar 2\periode 1\C#\week3(clientserver)\clientserver\clientserver\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\nick map\school\jaar 2\periode 1\C#\week3(clientserver)\clientserver\clientserver\obj\Debug\clientserver.exe
+D:\nick map\school\jaar 2\periode 1\C#\week3(clientserver)\clientserver\clientserver\obj\Debug\clientserver.pdb
+C:\Users\nickv\Desktop\project\clientserver\bin\Debug\clientserver.exe.config
+C:\Users\nickv\Desktop\project\clientserver\obj\Debug\clientserver.exe
+C:\Users\nickv\Desktop\project\clientserver\obj\Debug\clientserver.pdb
+C:\Users\nickv\Desktop\project\clientserver\bin\Debug\clientserver.exe
+C:\Users\nickv\Desktop\project\clientserver\bin\Debug\clientserver.pdb
+C:\Users\nickv\Desktop\project\clientserver\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\project\clientserver\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\project\clientserver\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\project - Copy\clientserver\bin\Debug\clientserver.exe.config
+C:\Users\nickv\Desktop\project - Copy\clientserver\obj\Debug\clientserver.exe
+C:\Users\nickv\Desktop\project - Copy\clientserver\obj\Debug\clientserver.pdb
+C:\Users\nickv\Desktop\project - Copy\clientserver\bin\Debug\clientserver.exe
+C:\Users\nickv\Desktop\project - Copy\clientserver\bin\Debug\clientserver.pdb
+C:\Users\nickv\Desktop\project - Copy\clientserver\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\project - Copy\clientserver\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\project - Copy\clientserver\obj\Debug\server.csprojResolveAssemblyReference.cache
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\clientserver\bin\Debug\clientserver.exe.config
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\clientserver\obj\Debug\clientserver.exe
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\clientserver\obj\Debug\clientserver.pdb
+D:\school\jaar 2\periode 1\proftaak\c#\projectie-20161012T125110Z\projectie\project - Copy\clientserver\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\projectie\clientserver\bin\Debug\clientserver.exe.config
+C:\Users\nickv\Desktop\projectie\clientserver\obj\Debug\clientserver.exe
+C:\Users\nickv\Desktop\projectie\clientserver\obj\Debug\clientserver.pdb
+C:\Users\nickv\Desktop\projectie\clientserver\obj\Debug\server.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\projectie\clientserver\bin\Debug\clientserver.exe
+C:\Users\nickv\Desktop\projectie\clientserver\bin\Debug\clientserver.pdb
+C:\Users\nickv\Desktop\projectie\clientserver\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\projectie\clientserver\bin\Debug\DataLibary.pdb

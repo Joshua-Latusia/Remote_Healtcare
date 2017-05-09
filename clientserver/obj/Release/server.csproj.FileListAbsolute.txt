@@ -1,0 +1,8 @@
+C:\Users\nickv\Desktop\project\clientserver\bin\Release\clientserver.exe.config
+C:\Users\nickv\Desktop\project\clientserver\bin\Release\clientserver.exe
+C:\Users\nickv\Desktop\project\clientserver\bin\Release\clientserver.pdb
+C:\Users\nickv\Desktop\project\clientserver\bin\Release\DataLibary.dll
+C:\Users\nickv\Desktop\project\clientserver\bin\Release\DataLibary.pdb
+C:\Users\nickv\Desktop\project\clientserver\obj\Release\server.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\project\clientserver\obj\Release\clientserver.exe
+C:\Users\nickv\Desktop\project\clientserver\obj\Release\clientserver.pdb

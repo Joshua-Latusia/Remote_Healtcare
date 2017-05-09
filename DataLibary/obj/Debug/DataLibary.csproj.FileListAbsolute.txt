@@ -1,0 +1,15 @@
+C:\Users\nickv\Desktop\project\DataLibary\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\project\DataLibary\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\project\DataLibary\obj\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\project\DataLibary\obj\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\project\DataLibary\obj\Debug\DataLibary.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\project - Copy\DataLibary\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\project - Copy\DataLibary\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\project - Copy\DataLibary\obj\Debug\DataLibary.csprojResolveAssemblyReference.cache
+C:\Users\nickv\Desktop\project - Copy\DataLibary\obj\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\project - Copy\DataLibary\obj\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\projectie\DataLibary\bin\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\projectie\DataLibary\bin\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\projectie\DataLibary\obj\Debug\DataLibary.dll
+C:\Users\nickv\Desktop\projectie\DataLibary\obj\Debug\DataLibary.pdb
+C:\Users\nickv\Desktop\projectie\DataLibary\obj\Debug\DataLibary.csprojResolveAssemblyReference.cache

@@ -1,0 +1,161 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="14.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{4125DC65-3A0B-4F96-BED8-3564896B7F1B}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>VRApplicationWF</RootNamespace>
+    <AssemblyName>VRApplicationWF</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <StartupObject />
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="DataLibary">
+      <HintPath>..\DataLibary\bin\Debug\DataLibary.dll</HintPath>
+    </Reference>
+    <Reference Include="Newtonsoft.Json, Version=9.0.0.0, Culture=neutral, PublicKeyToken=30ad4fe6b2a6aeed, processorArchitecture=MSIL">
+      <HintPath>..\packages\Newtonsoft.Json.9.0.1\lib\net45\Newtonsoft.Json.dll</HintPath>
+      <Private>True</Private>
+    </Reference>
+    <Reference Include="PresentationCore" />
+    <Reference Include="PresentationFramework" />
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="BikeSniffer\BikeConnection.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="BikeSniffer\Simulation.cs" />
+    <Compile Include="VirtualReality\Forms\ChatWindow.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VirtualReality\Forms\ChatWindow.designer.cs">
+      <DependentUpon>ChatWindow.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VirtualReality\Forms\LoadingMap.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="VirtualReality\Forms\LoadingMap.Designer.cs">
+      <DependentUpon>LoadingMap.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VirtualReality\Scripts\Connection.cs" />
+    <Compile Include="VirtualReality\Scripts\Data.cs" />
+    <Compile Include="VirtualReality\Forms\VRSelect.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VirtualReality\Forms\VRSelect.Designer.cs">
+      <DependentUpon>VRSelect.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VirtualReality\Forms\Loading.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VirtualReality\Forms\Loading.Designer.cs">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </Compile>
+    <Compile Include="VirtualReality\Scripts\DataHandling.cs" />
+    <Compile Include="VirtualReality\Scripts\JSONMethods.cs" />
+    <Compile Include="VirtualReality\Forms\Password.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="VirtualReality\Forms\Password.Designer.cs">
+      <DependentUpon>Password.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="VirtualReality\Forms\ChatWindow.resx">
+      <DependentUpon>ChatWindow.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VirtualReality\Forms\VRSelect.resx">
+      <DependentUpon>VRSelect.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VirtualReality\Forms\Loading.resx">
+      <DependentUpon>Loading.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VirtualReality\Forms\LoadingMap.resx">
+      <DependentUpon>LoadingMap.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="VirtualReality\Forms\Password.resx">
+      <DependentUpon>Password.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="packages.config" />
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\14409235_1459193500763404_1710145789_n.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-24.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\play-32.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\stop-32.png" />
+  </ItemGroup>
+  <Import Project="..\SharedProject1\SharedProject1.projitems" Label="Shared" />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
